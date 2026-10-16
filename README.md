@@ -19,6 +19,7 @@ Systems Analyst based in Brasília, Brazil, with nearly 5 years of experience de
 |---|---|
 | [simple-fortran-compiler](https://github.com/vinyciussousa/simple-fortran-compiler) | Compiler for a subset of Fortran written from scratch in Python: lexer, LL(1) grammar analysis, recursive-descent parser, semantic checks and code generation for a stack machine |
 | [Simulador-SaM](https://github.com/vinyciussousa/Simulador-SaM) | Virtual machine for SaM assembly with subroutines, stack frames and an execution trace |
+| [Adventure-Journal-Mod](https://github.com/vinyciussousa/Adventure-Journal-Mod) | Minecraft mod in Java (Fabric API) with an auto-updated journal, death logging and point-of-interest commands. Personal project built as an experiment in AI-assisted development (discontinued) |
 
 ### Research
 
